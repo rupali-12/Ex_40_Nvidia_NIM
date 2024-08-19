@@ -6,4 +6,4 @@
 
 # Deployed Link
 
-[DEPLOYED_LINK]()
+[DEPLOYED_LINK](https://ex40nvidianim-etlhyesflksczz8hiyveyz.streamlit.app/)
